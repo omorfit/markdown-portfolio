@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+## My :star2:Awesome Attributes ##
+* Programing Languages: HTML, PHP, CSS, Javascript, *Bash, Python, Powershell*
+* Programs: __Adobe Photoshop__, Microsoft Word, *VisualStudio Code*
+
+_Italics_ = new and learning
+
+**Bold** = Older versions
