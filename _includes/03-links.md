@@ -1,1 +1,3 @@
-Replace this with a link to your a GitHub or social media profile.
+[National Geographic page on Aardvarks](https://www.nationalgeographic.com/animals/mammals/facts/aardvark)
+
+[GitHub](http://github.com)
